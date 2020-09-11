@@ -52,7 +52,10 @@ p {
     right    : 0%;
     height   : 100%;
     width    : 50%;
+    -webkit-overflow-scrolling: touch;
+    overflow-y: scroll;
 }
+
 
 
 img {
